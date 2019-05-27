@@ -1,0 +1,12 @@
+body{
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(201,253,45,1) 100%) black;
+    height: 100vh;
+}
+.span{
+    font-size: 30px;
+    margin-left: 10px;
+    color: red;
+    }
+a{
+    text-decoration-color: black;
+}
